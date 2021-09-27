@@ -12,6 +12,9 @@ As a Data Visualization Speicialist this project is to to build a user-friendly 
 - API Requests
 
 ## Results
+website found at:
+https://laurahaq.github.io/Mapping_Earthquakes/
+
 - Webpage when loaded:
 ![loaded](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/initial_webpage.png)
 
