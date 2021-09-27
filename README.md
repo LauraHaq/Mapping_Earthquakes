@@ -13,28 +13,28 @@ As a Data Visualization Speicialist this project is to to build a user-friendly 
 
 ## Results
 - Webpage when loaded:
-![loaded](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/initial_webpage.png)
+![loaded](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/initial_webpage.png)
 
   - data source:
 [techtonic boundary lines](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json)
   - code using geoJSON() to pull data to my website:
-![VS](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/getJSONplates.png)
+![VS](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/getJSONplates.png)
 
 - Input box opened and "Major Earthquakes" chosen:
-![majorEarthquakes](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/major_earthquakes.png)
+![majorEarthquakes](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/major_earthquakes.png)
 
   - data source:
 [major earthquakes data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
   - code using functions to diplay requested layer:
  
-    ![vs2](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/getfunctions.png)
+    ![vs2](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/getfunctions.png)
 
 - Additional map layers added:
-![darkoption](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/dark_layer.png)
+![darkoption](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/dark_layer.png)
   
   - code to add layer options:
   
- ![layers](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/layers.png)
+ ![layers](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/layers.png)
  
 
 ## Summary
