@@ -34,7 +34,7 @@ As a Data Visualization Speicialist this project is to to build a user-friendly 
   
   - code to add layer options:
   
- ![layers](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/layers.png)
+    ![layers](https://github.com/LauraHaq/Mapping_Earthquakes/blob/main/static/images/layers.png)
  
 
 ## Summary
